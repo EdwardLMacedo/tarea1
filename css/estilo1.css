@@ -1,0 +1,60 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    border-radius: 50%;
+}
+
+#general
+{
+    margin: auto;
+    margin-top: 15px;
+    width: 600px;
+    height: 600px;
+    background-color: aquamarine;
+}
+
+#ojos
+{
+    display: flex;
+    scroll-padding-block-end: ;
+}
+
+
+#caja1
+{
+    margin: auto;
+    margin-top: 100px;
+    width: 200px;
+    height: 200px;
+    background-color: gold;
+}
+
+#caja2
+{
+    margin: auto;
+    margin-top: 100px;
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+}
+
+
+#caja3
+{
+    margin: auto;
+    width: 150px;
+    height: 80px;
+    background-color: rgb(230, 133, 6);
+}
+
+
+#caja4
+{
+    
+    margin: 100px;
+    width:600;
+    height: 100px;
+    background-color: rgb(115, 230, 80);
+    
+}
